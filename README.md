@@ -4,9 +4,9 @@ A real-time indoor environmental monitoring system built on the STM32F411RE Nucl
 
 ## Demo
 
-![Environmental Monitor Setup](images/setup.jpg)
-![OLED Display](images/oled.jpg)
-![Full Wiring](images/wiring.jpg)
+![Environmental Monitor Setup](images/setup.jpeg)
+![OLED Display](images/oled.jpeg)
+![Full Wiring](images/wiring.jpeg)
 
 ## Hardware
 
